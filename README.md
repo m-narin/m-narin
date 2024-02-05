@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Buysell Technologies.
+- 🔭 I’m currently working on BuySell Technologies Co., Ltd.
 - 📫 How to reach me: https://twitter.com/MandeNaren
 - 😄 I like ramen, basketball, writing.
