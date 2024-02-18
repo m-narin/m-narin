@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on BuySell Technologies Co., Ltd.
 - 📫 How to reach me: https://twitter.com/MandeNaren
-- 😄 I like ramen, basketball, writing.
+- 😄 I like ramen, basketball, writing, singing.
