@@ -1,6 +1,6 @@
 ## 初めまして 👋
 - 現在Webエンジニアとして仕事しています。🔭
-- Outputなどはこちら→ https://lapras.com/public/XT3QQON。📕
+- Outputなどはこちら→ https://lapras.com/public/XT3QQON
 - 好きなものはラーメン, バスケ, 歌うこと。😄
 
 ## 仕事で意識していること
