@@ -1,4 +1,4 @@
-8## 初めまして 👋
+## 初めまして 👋
 - 現在Webエンジニアとして仕事しています。（2020年ごろから現在まで）
 - Outputなどはこちら→ https://lapras.com/public/XT3QQON
 
